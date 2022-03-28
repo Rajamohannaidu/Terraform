@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "starlit-effect-341904",
+  "private_key_id": "1857b82a3a6d12dca40879c017a500ff89cd76de",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCiPcNtPMmbpM81\n/cNzZR5xyJ0UmYgYAbfwv6oymHeJcNP7oCtXJhyP9iTRECMSdJ/dVseBj/oDOXWo\n3RwAgw1Gi31IiXhHIzPMqqlsRrxdIa2n6aEdn69WdGM/RSeb7T2zIcjZ5hxH3Cpp\nM1KXPfUBa9l48vT3N3YgHdIG+jg1N7/OrvEaSfAk5vM+Un4WZZ/6fJHrx4fxiok8\nedCP7BfhmTMaXEvjKcHMROhv29uJ34NHGeDTJmM5J7j+1j7DZHlEFE64sPizBZEW\nt43DtiNB0vnsDDxQnUktoD53L3T1Pv5SzNz2zopmqsYhKpFy/4gOdkZTtwhiOGih\nu2e1Zs/DAgMBAAECggEAPru9HjccCbffe5QFCFC4Rez5eCaprga0Fj42VFwKFLXw\n8eIMACW3c58Mu14PAargydgtSpbeaHLGYSYmFriV4Io9RlgJjxA4jlILMtfjK+vC\n1yOKbgb56GcWnTdjSnKgoexVWpQUqWCjcYwrylllrEgEjjT7rb/fSCnftVz5cPHg\nzB+vXLrABhmP8mG0uObHHeDzjdB/W7zUxJT15s3Xo2zzNX60546pelxQOri42jL4\n8oAu48Ax0me05OZ1sM88Elw/1ZaR8QqHMaS9kbn5dq4h2bZKfPsYqpDtW9A7cJmt\nh3rGx063Ya3j+XThVG+USIz4ztYFBbbW1gIsSrCDmQKBgQDVlZfiUxEwlsKNzYQ8\nzCUaaqhQa/0x6Qz3+qQ8gVXNwp0I4qbu9s7PRlcEQzpeGNnyMZURbFGj3kePKAXm\nfWOFQFeHvQExoUTjylynEQWvn5JkuO1qRnJO0jw3UH1MdlmL+q2qFwehbqj3kHzi\n8KIBk7NxTyWUBpscE+zStttDlwKBgQDCdfDd0Zhy7niMEnHJ2wq6MAym8BNsfO02\nPgIfywaupTeZkdntznJvQ9Unt6M98y4qgGDsVccVYRp10mAadJDHjHzb0MdKSnOa\n1v0CVTpvkOvE+X74ozNGgsXzClAX8JsDJcy4wgAz6b1wTEci51Z6EAdXdZ+rdT7B\nzTqANyjqtQKBgBBjs0z9vNLyrqk8/QnBTJOTXakWME61KHaa+CFgd1obtfspkU/D\nBqmnJyQ/mGoCFC9emKbGnhkqBGm604EVXB6sikrzOPU6/9NPAv8a8knAv/YUrrs5\n/qmHvnEsLwFAD60LJmpn7AD6QeMFZl/vwS7Hy7xFK4gJXbuw17pvp7GvAoGAXGa4\ndl6SxwIDq+NTyGvZ1BDi4iwvvpw6B009qyfI3BHLsqA4YqR3geFEluPOoLA93poz\n8/jqaYFDlnrJiaib5wYdikHRgL6R4iCIBqTC6KJ/NZCsQa8ivT2Em/DpkAaXUc6T\nUbN1bzWA+6xzHOW6FLQrGObeYRWMJYDEbIpJWgUCgYA7scBC5s7SgoBjbyz6HE1a\nhoVpuDFzUfOLl7DusLHI+uPyWrZXMZdhTE3tzyHcMDFPfbHiMEIzJI+TUhiiFLRD\nBa3O/fMjT/A8xX6fQn7kfgYvkNwd6n2D1lsR3K7+07ToKCB7Z4H/74pgaA+yTnSo\nPxSwjfWfoiOQZ/I79dv7Vg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform@starlit-effect-341904.iam.gserviceaccount.com",
+  "client_id": "106798224650790370502",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform%40starlit-effect-341904.iam.gserviceaccount.com"
+}
